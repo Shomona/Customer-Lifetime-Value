@@ -3,4 +3,3 @@ Calculate the customer lifetime value from 4200 transaction records using python
 
 See the jupytr notebook in the master branch for progress 
 
-Status: In progress
